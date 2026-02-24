@@ -7,4 +7,4 @@ Made by Rohit Sanodiya.
 <h2>How to use : </h2>
 1. Enter you password
 <br>
-2. Know your Password Srength
+2. Know your Password Strength
