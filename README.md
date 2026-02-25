@@ -15,3 +15,9 @@ then,
 1. Enter you password
 <br>
 2. Know your Password Strength
+<br>
+<br>
+------------------------------------------------------------------------------------------------------
+<br>
+This all works using the python file i have made .<br> To use this file we requires python , hence python should be installed in your Laptop/PC.
+To download python go to https://www.python.org/downloads/ and download it according to your OS.
