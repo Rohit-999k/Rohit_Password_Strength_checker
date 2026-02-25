@@ -1,10 +1,16 @@
-# Rohit_Password_Strength_checker
+# Rpass
 A Simple Password Strength Checker Using Python.
 <br> 
 Made by Rohit Sanodiya.
 <br>
 <br>
 <h2>How to use : </h2>
+<h3>Enter this code in terminal :</h3> git clone https://github.com/Rohit-999k/Rohit_Password_Strength_checker.git<br>
+
+<h3>Run :</h3> python Rpass.py <br>
+<br>
+then,
+<br>
 1. Enter you password
 <br>
 2. Know your Password Strength
