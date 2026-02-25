@@ -7,6 +7,7 @@ Made by Rohit Sanodiya.
 <h2>How to use : </h2>
 <h3>Enter this code in terminal :</h3> git clone https://github.com/Rohit-999k/Rohit_Password_Strength_checker.git<br>
 
+<br>
 <h3>Run :</h3> python Rpass.py <br>
 <br>
 then,
